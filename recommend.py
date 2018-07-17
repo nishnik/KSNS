@@ -2,6 +2,7 @@ import json
 from scipy import spatial
 import nltk
 from nltk.corpus import stopwords
+import numpy as np
 
 data = json.load(open('courses.json', 'r'))
 
