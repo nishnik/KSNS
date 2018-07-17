@@ -1,6 +1,8 @@
 # KSNS
 Kourse Structre is Not Structured
 
+You can view the project at [ksns.herokuapp](https://ksns.herokuapp.com/).
+
 This repository is about Machine Learning and **Kumar Srinivas**.<br/>
 Everyone in our wing knows that there is no one more regular in going to classes than our Kumar Srinivas.<br/>
 I watched him every day, crossing my doors with a red bag, *whatta scenery in motion*!<br/>
@@ -51,4 +53,4 @@ Most similar courses to  MA21007   DESIGN AND ANALYSIS OF ALGORITHMS
 ```
 ## Contributions
 
-I am planning to make this a heroku application. You can help me with the front-end. We would develop a flask application. Do have a look at [Gyft-frontend](https://github.com/nishnik/gyft-serve) for MVP. 
+There are few courses whose name is missing in the file. You can use MetaKGP's dump to rectify that. Thanks!
